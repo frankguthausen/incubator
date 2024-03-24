@@ -1,7 +1,7 @@
 #
 
 External data, content and code comes with its own licence. The
-licence is included in .deb packags and in the folder tree, e.g.
+licence is included in .deb packages and in the folder tree, e.g.
 
     external/debian/trixie/usr/share/doc/debootstrap/copyright
     external/debian/trixie/var/cache/apt/archives/debootstrap_1.0.134_all.deb
